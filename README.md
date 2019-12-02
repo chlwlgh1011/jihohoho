@@ -15,11 +15,8 @@
 <li><a href="num.html">내 번호</a></li>
 <li><a href="food.html">내가 좋아하는 음식</a></li>
 
-</ul>
-<p>
 
 
 
 </p>
-</body>
-</html>
+
